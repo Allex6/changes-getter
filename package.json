@@ -1,0 +1,26 @@
+{
+  "name": "changes-getter",
+  "version": "1.0.0",
+  "description": "This tool allows you to find differences between files, objects and strings, in addition to having a method that waits for changes in a given file and returns them as soon as they happen.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allex6/changes-getter.git"
+  },
+  "keywords": [
+    "differences",
+    "string differences",
+    "file differences",
+    "watch files"
+  ],
+  "author": "Alex Souza",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "bugs": {
+    "url": "https://github.com/Allex6/changes-getter/issues"
+  },
+  "homepage": "https://github.com/Allex6/changes-getter#readme"
+}
